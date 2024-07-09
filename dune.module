@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: duneuro_udg_forward_test
+Version: 0.1
+Maintainer: m_hoel20@uni-muenster.de
+# Required build dependencies
+Depends: duneuro dune-udg
+# Optional build dependencies
+#Suggests:

@@ -1,0 +1,6 @@
+#ifndef DUNEURO_UDG_FORWARD_TEST_HH
+#define DUNEURO_UDG_FORWARD_TEST_HH
+
+// add your classes here
+
+#endif // DUNEURO_UDG_FORWARD_TEST_HH
